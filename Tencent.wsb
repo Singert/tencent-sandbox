@@ -6,6 +6,12 @@
             <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
+        <!-- Downloads -->
+        <MappedFolder>
+            <HostFolder>C:\Users\Singer\sandbox\tencent-sandbox\Downloads</HostFolder>
+            <SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
+            <ReadOnly>false</ReadOnly>
+        </MappedFolder>
         <!-- App -->
         <MappedFolder>
             <HostFolder>.\App\WeChat</HostFolder>
