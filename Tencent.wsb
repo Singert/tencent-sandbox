@@ -8,7 +8,7 @@
         </MappedFolder>
         <!-- Downloads -->
         <MappedFolder>
-            <HostFolder>C:\Users\Singer\sandbox\tencent-sandbox\Downloads</HostFolder>
+            <HostFolder>.\Downloads</HostFolder>
             <SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
